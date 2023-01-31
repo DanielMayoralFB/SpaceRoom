@@ -1,2 +1,2 @@
 # SpaceRoom
-a VR game made with Unity for Oculus Rift S
+Space Room is an escape room for Oculus Rift S made with Unity
